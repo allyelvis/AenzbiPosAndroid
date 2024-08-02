@@ -43,5 +43,5 @@ This Android application is designed for the Aenzbi Point of Sale (POS) system.
 - Integrate with EBMS for posting invoices and stock movements.
 
 ## Contributors
-- [Your Name](https://github.com/yourusername)
+- [Ally Elvis Nzeyimana](https://github.com/allyelvis)
 
