@@ -4,8 +4,8 @@
 PROJECT_NAME="AenzbiPOS"
 PACKAGE_NAME="com.aenzbi.pos"
 MIN_SDK_VERSION=21
-TARGET_SDK_VERSION=31
-PROJECT_DIR="$PWD/$PROJECT_NAME"
+=31
+PROJECT_DIRTARGET_SDK_VERSION="$PWD/$PROJECT_NAME"
 
 # Function to create the Android project
 create_android_project() {
