@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Aenzbi POS</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="login">Login</string>
+    <string name="product_list">Product List</string>
+    <string name="sales">Sales</string>
+    <string name="inventory">Inventory</string>
+</resources>
